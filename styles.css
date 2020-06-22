@@ -74,6 +74,8 @@ section {
   float: left;
   width: 50%;
   color: rgb(187, 187, 187);
+  display: flex;
+  align-items: center;
 }
 
 .button{
