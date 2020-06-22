@@ -81,7 +81,6 @@ section {
 }
 
 .button a{
-  display: inline;
   line-height: 60px;
   float: right;
   margin-right: 15px;
